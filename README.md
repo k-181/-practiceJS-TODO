@@ -1,6 +1,6 @@
 # TODO APP
 
-Making Chrome App with Vanilla JS. Learn with <b href="https://nomadcoders.co/"> Nomad Coders </b>
+Making Chrome App with Vanilla JS. Learn with <a href="https://nomadcoders.co/"> Nomad Coders </a>
 
 <ul>
   <h3> Learn about </h3>
