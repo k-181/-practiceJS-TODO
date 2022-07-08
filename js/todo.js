@@ -28,7 +28,7 @@ function paintToDo(newTodo){
     //li
     const li = document.createElement("li");
     li.id = newTodo.id;
-    li.classList.add("text-dark","border-dark","list-group-item","bg-light","bg-opacity-50","fs-4");
+    li.classList.add("text-dark","border-dark","list-group-item","bg-light","bg-opacity-10","fs-4");
     //li.addEventListener("click",doneToDo); 
     //span
     const span = document.createElement("span");
