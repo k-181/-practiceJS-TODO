@@ -2,7 +2,7 @@
 
 [Nomad Coders] Making Chrome App with Vanilla JS.
 
-Learn with <a href="https://nomadcoders.co/" style="bold"> Nomad Coders </a>
+Learn with <a href="https://nomadcoders.co/"> Nomad Coders </a>
 
 <ul>
   <h3> Learn about </h3>
